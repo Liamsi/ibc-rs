@@ -1,4 +1,4 @@
-# ADR {ADR-NUMBER}: {TITLE}
+# ADR 002: IBC Relayer in Rust
 
 ## Changelog
 * {date}: {changelog}
